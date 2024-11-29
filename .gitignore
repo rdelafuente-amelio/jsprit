@@ -13,3 +13,4 @@
 .project
 .classpath
 /.settings/
+/jsprit-core/build
